@@ -93,17 +93,6 @@ html {
     z-index: 4;
 }
 
-/*
-h1::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background-repeat: no-repeat;
-    height: 10px;
-    background-image: url(./image/wave.png);
-} */
 
 img {
     margin-left: 40px;
